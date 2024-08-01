@@ -1,4 +1,4 @@
-ales Prediction Project
+Sales Prediction Project
 Overview
 This project aims to predict sales using machine learning techniques. By analyzing historical sales data and other relevant features, the model can provide insights and forecasts that help businesses optimize their inventory, marketing strategies, and overall sales performance.
 
@@ -106,6 +106,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 Contact
 For questions or suggestions, please contact:
 
-Name: Your Name
-Email: your.email@example.com
+Name:Shedrack Wambua
+Email:shedrackwambua40@gmail.com
 GitHub: Your GitHub Profile
