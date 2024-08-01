@@ -46,7 +46,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/username/sales-prediction.git
+git clone https://github.com/wambuarack/sales-prediction.git
 cd sales-prediction
 Install the required packages:
 
